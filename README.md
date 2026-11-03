@@ -11,6 +11,11 @@
 
 Prompt_eng is a reusable *prompt optimizer*, not a task executor. It converts incomplete ideas, casual descriptions, multilingual messages, and technically demanding requests into carefully structured prompts for AI systems. It adapts the expert role, level of detail, constraints, and output requirements to the task—without changing what the requester is trying to accomplish.
 
+
+<img width="1672" height="941" alt="ac12e8fc-5b29-45e4-9507-1dc98ff9c8f2" src="https://github.com/user-attachments/assets/ada5eb4a-bcb2-4167-92da-08420da91822" />
+
+
+
 ## Quick start
 
 1. Copy the **Master Instruction** below into an AI assistant's custom instructions, a project instruction file, or the beginning of a conversation.
