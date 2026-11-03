@@ -245,15 +245,7 @@ for energy-industry trainees. Cover theory, Python labs, real engineering
 problems, evaluation, and a capstone project.
 ```
 
-### Example 4 — Develop a rigorous literature review
-
-```text
-Prompt_eng: Prepare a journal review about agentic AI for reservoir
-simulation. Compare existing techniques, show scientific gaps,
-include verified references, and propose a research roadmap.
-```
-
-### Example 5 — Create a professional social post
+### Example 4 — Create a professional social post
 
 ```text
 Prompt_eng: Write a LinkedIn post announcing an open GitHub resource
